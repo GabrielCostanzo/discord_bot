@@ -21,11 +21,11 @@ import pickle
 start_switch = False
 end_switch = False
 #discord bot token here
-TOKEN = 'NDU5NjI4ODc5MzIyMjg0MDQy.Dg5BJw.M51d_UufW-moCIXf7a-JooAZf5s'
+TOKEN = 'xxxxxxx'
 
 
 #fortnite tracker api key here
-key = {'TRN-Api-Key':"ea1c5f22-d3c2-4c68-8dd5-9f91e3a0d034"}
+key = {'TRN-Api-Key':"xxxxxx"}
 
 master_key = b'pseudorandomly generated server secret key'
 
